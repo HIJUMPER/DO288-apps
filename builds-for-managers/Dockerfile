@@ -1,1 +1,1 @@
-FROM quay.io/redhattraining/builds- for-managers
+FROM quay.io/redhattraining/builds-for-managers
